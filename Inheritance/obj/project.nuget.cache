@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WqZ+5GI1wwwGE74x1P6aa1I1UZMenLlIBYX1GoMLi0v7EOO0b1G1LowPFlTvb7GOUBqqnirlsNUtJOgkCtVljg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\CSE210\\Inheritance\\Inheritance.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\raylib-cs\\4.0.0.1\\raylib-cs.4.0.0.1.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
