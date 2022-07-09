@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Desktop\\CSE210\\Unit05_Cycle\\Unit05_Cycle.csproj": {}
+    "C:\\Users\\HP\\Desktop\\CSE210\\Unit05_Cycle\\Unit05.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Desktop\\CSE210\\Unit05_Cycle\\Unit05_Cycle.csproj": {
+    "C:\\Users\\HP\\Desktop\\CSE210\\Unit05_Cycle\\Unit05.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Desktop\\CSE210\\Unit05_Cycle\\Unit05_Cycle.csproj",
-        "projectName": "Unit05_Cycle",
-        "projectPath": "C:\\Users\\HP\\Desktop\\CSE210\\Unit05_Cycle\\Unit05_Cycle.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\CSE210\\Unit05_Cycle\\Unit05.csproj",
+        "projectName": "Unit05",
+        "projectPath": "C:\\Users\\HP\\Desktop\\CSE210\\Unit05_Cycle\\Unit05.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\HP\\Desktop\\CSE210\\Unit05_Cycle\\obj\\",
         "projectStyle": "PackageReference",
@@ -37,6 +37,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "raylib-cs": {
+              "target": "Package",
+              "version": "[3.7.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
