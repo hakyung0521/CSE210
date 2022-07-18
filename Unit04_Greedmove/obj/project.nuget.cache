@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "E4/Z/iThSzo0Zd6MK6cLQb1KZaSpDSzyjW5g4QQ3n7ta4atzGw1KnpaEn8ht5MATnJeXo2E7CnQ2Gcm445bI/g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\CSE210\\cse210-04-main\\unit04-greed.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\raylib-cs\\3.7.0.1\\raylib-cs.3.7.0.1.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
